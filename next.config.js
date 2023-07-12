@@ -20,6 +20,12 @@ const nextConfig = {
                 destination: "/documents/sponsorship-prospectus.pdf",
                 permanent: false,
                 basePath: false,
+            },
+            {
+                source: "/volunteer-benefits",
+                destination: "https://techoptimum.notion.site/Volunteer-Benefits-at-Tech-Optimum-18b3263dda344832a8df1687df92a8f4",
+                permanent: false,
+                basePath: false,
             }
         ];
     },
