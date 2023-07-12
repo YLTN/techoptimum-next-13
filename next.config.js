@@ -14,6 +14,12 @@ const nextConfig = {
                 destination: "https://techoptimum.notion.site/Tech-Optimum-Privacy-Policy-6bdd940503494d458223e926381175f1?pvs=4",
                 permanent: false,
                 basePath: false,
+            },
+            {
+                source: "/sponsorship",
+                destination: "/documents/sponsorship-prospectus.pdf",
+                permanent: false,
+                basePath: false,
             }
         ];
     },
